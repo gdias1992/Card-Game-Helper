@@ -255,7 +255,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cheats\_BaseCheat.cs" />
-    <Compile Include="MasterDuel.cs" />
+    <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
