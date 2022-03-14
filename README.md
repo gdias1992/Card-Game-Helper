@@ -1,6 +1,10 @@
 # Card Game Helper
 https://www.unknowncheats.me/forum/other-games/492843-yu-gi-oh-master-duel-helper.html
 
+## Features
+- Speedhack
+- Enemy Surrender (solo play only)
+
 ## Requirements
 - [MelonLoader](https://github.com/LavaGang/MelonLoader)
 - Visual Studio 2019/2022
