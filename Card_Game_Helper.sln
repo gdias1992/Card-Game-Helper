@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YuGiOh_Master_Duel", "YuGiOh_Master_Duel.csproj", "{A5748840-D89C-4E79-B2CD-014E23FC7723}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Card_Game_Helper", "Card_Game_Helper.csproj", "{A5748840-D89C-4E79-B2CD-014E23FC7723}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

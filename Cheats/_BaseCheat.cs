@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Threading;
 using MelonLoader;
 
-namespace YuGiOh_Master_Duel.BaseClasses
+namespace Card_Game_Helper.BaseClasses
 {
     abstract class _BaseCheat : iBaseCheat
     {

@@ -35,5 +35,5 @@ using MelonLoader;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: MelonInfo(typeof(YuGiOh_Master_Duel.MasterDuel), "MasterDuel Helper", "0.0.0.0", "Dias")]
+[assembly: MelonInfo(typeof(Card_Game_Helper.MasterDuel), "MasterDuel Helper", "0.0.0.0", "Dias")]
 [assembly: MelonGame("Konami Digital Entertainment Co., Ltd.", "masterduel")]
