@@ -1,4 +1,4 @@
-# Universal CardGame Helper
+# Universal Card Game Helper
 https://www.unknowncheats.me/forum/other-games/492843-yu-gi-oh-master-duel-helper.html
 
 ## Requirements
