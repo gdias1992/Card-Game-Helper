@@ -1,4 +1,4 @@
-# YGOMD Helper
+# Universal CardGame Helper
 https://www.unknowncheats.me/forum/other-games/492843-yu-gi-oh-master-duel-helper.html
 
 ## Requirements
@@ -11,8 +11,8 @@ After applying [MelonLoaderInstaller.exe](https://github.com/LavaGang/MelonLoade
 
 Then open the GitHub project and add the following references to your project:
 
-- STEAM_FOLDER/.../YUGIOH_FOLDER/MelonLoader/MelonLoader.dll
-- STEAM_FOLDER/.../YUGIOH_FOLDER/MelonLoader/Managed/UnityEngine*.dll (all dll's with UnityEngine in the name, except by UnityEngine.InputModule.dll)
-- STEAM_FOLDER/.../YUGIOH_FOLDER/MelonLoader/Managed/Assembly-CSharp.dll
-- STEAM_FOLDER/.../YUGIOH_FOLDER/MelonLoader/Managed/Il2Cppmscorlib.dll
-- STEAM_FOLDER/.../YUGIOH_FOLDER/MelonLoader/Managed/UnhollowerBaseLib.dll
+- STEAM_FOLDER/.../GAME_FOLDER/MelonLoader/MelonLoader.dll
+- STEAM_FOLDER/.../GAME_FOLDER/MelonLoader/Managed/UnityEngine*.dll (all dll's with UnityEngine in the name, except by UnityEngine.InputModule.dll)
+- STEAM_FOLDER/.../GAME_FOLDER/MelonLoader/Managed/Assembly-CSharp.dll
+- STEAM_FOLDER/.../GAME_FOLDER/MelonLoader/Managed/Il2Cppmscorlib.dll
+- STEAM_FOLDER/.../GAME_FOLDER/MelonLoader/Managed/UnhollowerBaseLib.dll
